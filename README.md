@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -52,3 +53,7 @@ export default tseslint.config({
   },
 })
 ```
+=======
+# Restockr
+A smart shopping list app that helps you restock items you regularly use.
+>>>>>>> 348d4917c6430289690bd6db15a324926161a96b
