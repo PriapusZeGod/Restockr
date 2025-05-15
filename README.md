@@ -6,10 +6,14 @@ This README is a work in progress 🛠️
 
 ---
 
-## 📸 Demo
+## 🖼️ Wireframes
 
-Coming soon...
-I just started working on it 😅
+### 📋 To Buy List View
+![To Buy List](./UX/Figma/WireFrames/Buy_Items_View.png)
+
+### ➕ Add Items View
+![Add Items](./UX/Figma/WireFrames/Add_Items_View.png)
+
 
 ---
 
