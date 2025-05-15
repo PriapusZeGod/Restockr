@@ -8,12 +8,11 @@ This README is a work in progress 🛠️
 
 ## 🖼️ Wireframes
 
-### 📋 To Buy List View
-![To Buy List](./UX/Figma/WireFrames/Buy_Items_View.png)
-
-### ➕ Add Items View
-![Add Items](./UX/Figma/WireFrames/Add_Items_View.png)
-
+<p align="center">
+  <img src="./UX/Figma/WireFrames/Buy_Items_View.png" alt="To Buy List View" width="300"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="./UX/Figma/WireFrames/Add_Items_View.png" alt="Add Items View" width="300"/>
+</p>
 
 ---
 
