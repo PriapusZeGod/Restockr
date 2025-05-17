@@ -9,11 +9,12 @@ This README is a work in progress 🛠️
 ## 🖼️ Wireframes
 
 ### 📋 To Buy List View
+
 ![To Buy List](./UX/Figma/WireFrames/Buy_Items_View.png)
 
 ### ➕ Add Items View
-![Add Items](./UX/Figma/WireFrames/Add_Items_View.png)
 
+![Add Items](./UX/Figma/WireFrames/Add_Items_View.png)
 
 ---
 
@@ -54,3 +55,4 @@ npm install
 
 # Run the dev server
 npm run dev
+```
